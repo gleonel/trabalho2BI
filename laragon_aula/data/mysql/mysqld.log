@@ -1,0 +1,326 @@
+2021-04-08T00:54:00.092252Z 0 [Warning] Insecure configuration for --secure-file-priv: Current value does not restrict location of generated files. Consider setting it to a valid, non-empty path.
+2021-04-08T00:54:00.092761Z 0 [ERROR] Cannot open Windows EventLog; check privileges, or start server with --log_syslog=0
+2021-04-08T00:54:00.092782Z 0 [Note] D:\laragon\bin\mysql\mysql-5.7.24-winx64\bin\mysqld (mysqld 5.7.24) starting as process 1388 ...
+2021-04-16T00:55:44.476787Z 0 [Warning] Insecure configuration for --secure-file-priv: Current value does not restrict location of generated files. Consider setting it to a valid, non-empty path.
+2021-04-16T00:55:44.479183Z 0 [ERROR] Cannot open Windows EventLog; check privileges, or start server with --log_syslog=0
+2021-04-16T00:55:44.479226Z 0 [Note] D:\laragon\bin\mysql\mysql-5.7.24-winx64\bin\mysqld (mysqld 5.7.24) starting as process 10052 ...
+2021-04-22T21:22:52.953262Z 0 [Warning] Insecure configuration for --secure-file-priv: Current value does not restrict location of generated files. Consider setting it to a valid, non-empty path.
+2021-04-22T21:22:52.955565Z 0 [ERROR] Cannot open Windows EventLog; check privileges, or start server with --log_syslog=0
+2021-04-22T21:22:52.955599Z 0 [Note] D:\laragon\bin\mysql\mysql-5.7.24-winx64\bin\mysqld (mysqld 5.7.24) starting as process 7764 ...
+2021-04-28T23:40:44.325259Z 0 [Warning] Insecure configuration for --secure-file-priv: Current value does not restrict location of generated files. Consider setting it to a valid, non-empty path.
+2021-04-28T23:40:44.344034Z 0 [ERROR] Cannot open Windows EventLog; check privileges, or start server with --log_syslog=0
+2021-04-28T23:40:44.344065Z 0 [Note] D:\laragon\bin\mysql\mysql-5.7.24-winx64\bin\mysqld (mysqld 5.7.24) starting as process 16336 ...
+2021-04-29T21:07:01.633400Z 0 [Warning] Insecure configuration for --secure-file-priv: Current value does not restrict location of generated files. Consider setting it to a valid, non-empty path.
+2021-04-29T21:07:01.635390Z 0 [ERROR] Cannot open Windows EventLog; check privileges, or start server with --log_syslog=0
+2021-04-29T21:07:01.635419Z 0 [Note] D:\laragon\bin\mysql\mysql-5.7.24-winx64\bin\mysqld (mysqld 5.7.24) starting as process 11620 ...
+2021-04-29T21:07:11.280453Z 0 [Warning] Insecure configuration for --secure-file-priv: Current value does not restrict location of generated files. Consider setting it to a valid, non-empty path.
+2021-04-29T21:07:11.280738Z 0 [ERROR] Cannot open Windows EventLog; check privileges, or start server with --log_syslog=0
+2021-04-29T21:07:11.280762Z 0 [Note] D:\laragon\bin\mysql\mysql-5.7.24-winx64\bin\mysqld (mysqld 5.7.24) starting as process 15448 ...
+2021-04-29T21:07:11.294769Z 0 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2021-04-29T21:07:11.295151Z 0 [Note] InnoDB: Uses event mutexes
+2021-04-29T21:07:11.295391Z 0 [Note] InnoDB: _mm_lfence() and _mm_sfence() are used for memory barrier
+2021-04-29T21:07:11.295755Z 0 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2021-04-29T21:07:11.296335Z 0 [Note] InnoDB: Number of pools: 1
+2021-04-29T21:07:11.296675Z 0 [Note] InnoDB: Not using CPU crc32 instructions
+2021-04-29T21:07:11.299900Z 0 [Note] InnoDB: Initializing buffer pool, total size = 128M, instances = 1, chunk size = 128M
+2021-04-29T21:07:11.306558Z 0 [Note] InnoDB: Completed initialization of buffer pool
+2021-04-29T21:07:11.375540Z 0 [Note] InnoDB: Highest supported file format is Barracuda.
+2021-04-29T21:07:11.484170Z 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2021-04-29T21:07:11.484727Z 0 [Note] InnoDB: Setting file '.\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2021-04-29T21:07:11.647307Z 0 [Note] InnoDB: File '.\ibtmp1' size is now 12 MB.
+2021-04-29T21:07:11.681249Z 0 [Note] InnoDB: 96 redo rollback segment(s) found. 96 redo rollback segment(s) are active.
+2021-04-29T21:07:11.683333Z 0 [Note] InnoDB: 32 non-redo rollback segment(s) are active.
+2021-04-29T21:07:11.687918Z 0 [Note] InnoDB: 5.7.24 started; log sequence number 2635969
+2021-04-29T21:07:11.697115Z 0 [Note] InnoDB: Loading buffer pool(s) from D:\laragon\data\mysql\ib_buffer_pool
+2021-04-29T21:07:11.697639Z 0 [Note] Plugin 'FEDERATED' is disabled.
+2021-04-29T21:07:11.754383Z 0 [Warning] Failed to set up SSL because of the following SSL library error: SSL context is not usable without certificate and private key
+2021-04-29T21:07:11.755126Z 0 [Note] Server hostname (bind-address): '*'; port: 3306
+2021-04-29T21:07:11.755611Z 0 [Note] IPv6 is available.
+2021-04-29T21:07:11.755826Z 0 [Note]   - '::' resolves to '::';
+2021-04-29T21:07:11.756116Z 0 [Note] Server socket created on IP: '::'.
+2021-04-29T21:07:11.756395Z 0 [ERROR] Can't start server: Bind on TCP/IP port: No such file or directory
+2021-04-29T21:07:11.756752Z 0 [ERROR] Do you already have another mysqld server running on port: 3306 ?
+2021-04-29T21:07:11.757111Z 0 [ERROR] Aborting
+
+2021-04-29T21:07:11.757325Z 0 [Note] Binlog end
+2021-04-29T21:07:11.757521Z 0 [Note] Shutting down plugin 'ngram'
+2021-04-29T21:07:11.757750Z 0 [Note] Shutting down plugin 'partition'
+2021-04-29T21:07:11.757988Z 0 [Note] Shutting down plugin 'BLACKHOLE'
+2021-04-29T21:07:11.758226Z 0 [Note] Shutting down plugin 'ARCHIVE'
+2021-04-29T21:07:11.758481Z 0 [Note] Shutting down plugin 'PERFORMANCE_SCHEMA'
+2021-04-29T21:07:11.758773Z 0 [Note] Shutting down plugin 'MRG_MYISAM'
+2021-04-29T21:07:11.759019Z 0 [Note] Shutting down plugin 'MyISAM'
+2021-04-29T21:07:11.759300Z 0 [Note] Shutting down plugin 'INNODB_SYS_VIRTUAL'
+2021-04-29T21:07:11.759663Z 0 [Note] Shutting down plugin 'INNODB_SYS_DATAFILES'
+2021-04-29T21:07:11.760027Z 0 [Note] Shutting down plugin 'INNODB_SYS_TABLESPACES'
+2021-04-29T21:07:11.760411Z 0 [Note] Shutting down plugin 'INNODB_SYS_FOREIGN_COLS'
+2021-04-29T21:07:11.760801Z 0 [Note] Shutting down plugin 'INNODB_SYS_FOREIGN'
+2021-04-29T21:07:11.761173Z 0 [Note] Shutting down plugin 'INNODB_SYS_FIELDS'
+2021-04-29T21:07:11.761438Z 0 [Note] Shutting down plugin 'INNODB_SYS_COLUMNS'
+2021-04-29T21:07:11.761727Z 0 [Note] Shutting down plugin 'INNODB_SYS_INDEXES'
+2021-04-29T21:07:11.761993Z 0 [Note] Shutting down plugin 'INNODB_SYS_TABLESTATS'
+2021-04-29T21:07:11.762285Z 0 [Note] Shutting down plugin 'INNODB_SYS_TABLES'
+2021-04-29T21:07:11.762563Z 0 [Note] Shutting down plugin 'INNODB_FT_INDEX_TABLE'
+2021-04-29T21:07:11.762841Z 0 [Note] Shutting down plugin 'INNODB_FT_INDEX_CACHE'
+2021-04-29T21:07:11.763172Z 0 [Note] Shutting down plugin 'INNODB_FT_CONFIG'
+2021-04-29T21:07:11.763490Z 0 [Note] Shutting down plugin 'INNODB_FT_BEING_DELETED'
+2021-04-29T21:07:11.763774Z 0 [Note] Shutting down plugin 'INNODB_FT_DELETED'
+2021-04-29T21:07:11.764039Z 0 [Note] Shutting down plugin 'INNODB_FT_DEFAULT_STOPWORD'
+2021-04-29T21:07:11.764333Z 0 [Note] Shutting down plugin 'INNODB_METRICS'
+2021-04-29T21:07:11.764610Z 0 [Note] Shutting down plugin 'INNODB_TEMP_TABLE_INFO'
+2021-04-29T21:07:11.764891Z 0 [Note] Shutting down plugin 'INNODB_BUFFER_POOL_STATS'
+2021-04-29T21:07:11.765180Z 0 [Note] Shutting down plugin 'INNODB_BUFFER_PAGE_LRU'
+2021-04-29T21:07:11.765461Z 0 [Note] Shutting down plugin 'INNODB_BUFFER_PAGE'
+2021-04-29T21:07:11.765752Z 0 [Note] Shutting down plugin 'INNODB_CMP_PER_INDEX_RESET'
+2021-04-29T21:07:11.766048Z 0 [Note] Shutting down plugin 'INNODB_CMP_PER_INDEX'
+2021-04-29T21:07:11.766322Z 0 [Note] Shutting down plugin 'INNODB_CMPMEM_RESET'
+2021-04-29T21:07:11.766592Z 0 [Note] Shutting down plugin 'INNODB_CMPMEM'
+2021-04-29T21:07:11.766866Z 0 [Note] Shutting down plugin 'INNODB_CMP_RESET'
+2021-04-29T21:07:11.767134Z 0 [Note] Shutting down plugin 'INNODB_CMP'
+2021-04-29T21:07:11.767379Z 0 [Note] Shutting down plugin 'INNODB_LOCK_WAITS'
+2021-04-29T21:07:11.767713Z 0 [Note] Shutting down plugin 'INNODB_LOCKS'
+2021-04-29T21:07:11.767992Z 0 [Note] Shutting down plugin 'INNODB_TRX'
+2021-04-29T21:07:11.768233Z 0 [Note] Shutting down plugin 'InnoDB'
+2021-04-29T21:07:11.768521Z 0 [Note] InnoDB: FTS optimize thread exiting.
+2021-04-29T21:07:11.768867Z 0 [Note] InnoDB: Starting shutdown...
+2021-04-29T21:07:11.771776Z 0 [Note] InnoDB: Buffer pool(s) load completed at 210429 18:07:11
+2021-04-29T21:07:11.772176Z 0 [Note] InnoDB: Dumping buffer pool(s) to D:\laragon\data\mysql\ib_buffer_pool
+2021-04-29T21:07:11.773077Z 0 [Note] InnoDB: Buffer pool(s) dump completed at 210429 18:07:11
+2021-04-29T21:07:13.270528Z 0 [Note] InnoDB: Shutdown completed; log sequence number 2635988
+2021-04-29T21:07:13.284942Z 0 [Note] InnoDB: Removed temporary tablespace data file: "ibtmp1"
+2021-04-29T21:07:13.285322Z 0 [Note] Shutting down plugin 'MEMORY'
+2021-04-29T21:07:13.285596Z 0 [Note] Shutting down plugin 'CSV'
+2021-04-29T21:07:13.285882Z 0 [Note] Shutting down plugin 'sha256_password'
+2021-04-29T21:07:13.286179Z 0 [Note] Shutting down plugin 'mysql_native_password'
+2021-04-29T21:07:13.286596Z 0 [Note] Shutting down plugin 'binlog'
+2021-04-29T21:07:13.290124Z 0 [Note] D:\laragon\bin\mysql\mysql-5.7.24-winx64\bin\mysqld: Shutdown complete
+
+2021-04-29T21:10:44.805834Z 0 [Warning] Insecure configuration for --secure-file-priv: Current value does not restrict location of generated files. Consider setting it to a valid, non-empty path.
+2021-04-29T21:10:44.806406Z 0 [ERROR] Cannot open Windows EventLog; check privileges, or start server with --log_syslog=0
+2021-04-29T21:10:44.806421Z 0 [Note] D:\laragon\bin\mysql\mysql-5.7.24-winx64\bin\mysqld (mysqld 5.7.24) starting as process 11256 ...
+2021-04-29T22:37:45.949071Z 0 [Warning] Insecure configuration for --secure-file-priv: Current value does not restrict location of generated files. Consider setting it to a valid, non-empty path.
+2021-04-29T22:37:45.949579Z 0 [ERROR] Cannot open Windows EventLog; check privileges, or start server with --log_syslog=0
+2021-04-29T22:37:45.949597Z 0 [Note] D:\laragon\bin\mysql\mysql-5.7.24-winx64\bin\mysqld (mysqld 5.7.24) starting as process 2932 ...
+2021-04-29T22:38:24.603497Z 0 [Warning] Insecure configuration for --secure-file-priv: Current value does not restrict location of generated files. Consider setting it to a valid, non-empty path.
+2021-04-29T22:38:24.603943Z 0 [ERROR] Cannot open Windows EventLog; check privileges, or start server with --log_syslog=0
+2021-04-29T22:38:24.603958Z 0 [Note] D:\laragon\bin\mysql\mysql-5.7.24-winx64\bin\mysqld (mysqld 5.7.24) starting as process 7504 ...
+2021-04-29T23:10:48.948567Z 0 [Warning] Insecure configuration for --secure-file-priv: Current value does not restrict location of generated files. Consider setting it to a valid, non-empty path.
+2021-04-29T23:10:48.949237Z 0 [ERROR] Cannot open Windows EventLog; check privileges, or start server with --log_syslog=0
+2021-04-29T23:10:48.949257Z 0 [Note] D:\laragon\bin\mysql\mysql-5.7.24-winx64\bin\mysqld (mysqld 5.7.24) starting as process 5832 ...
+2021-05-05T20:34:07.230913Z 0 [Warning] Insecure configuration for --secure-file-priv: Current value does not restrict location of generated files. Consider setting it to a valid, non-empty path.
+2021-05-05T20:34:07.347632Z 0 [ERROR] Cannot open Windows EventLog; check privileges, or start server with --log_syslog=0
+2021-05-05T20:34:07.347697Z 0 [Note] D:\laragon\bin\mysql\mysql-5.7.24-winx64\bin\mysqld (mysqld 5.7.24) starting as process 12496 ...
+2021-05-05T20:34:15.966880Z 0 [Warning] Insecure configuration for --secure-file-priv: Current value does not restrict location of generated files. Consider setting it to a valid, non-empty path.
+2021-05-05T20:34:15.967110Z 0 [ERROR] Cannot open Windows EventLog; check privileges, or start server with --log_syslog=0
+2021-05-05T20:34:15.967124Z 0 [Note] D:\laragon\bin\mysql\mysql-5.7.24-winx64\bin\mysqld (mysqld 5.7.24) starting as process 17848 ...
+2021-05-05T20:34:15.986652Z 0 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2021-05-05T20:34:15.987222Z 0 [Note] InnoDB: Uses event mutexes
+2021-05-05T20:34:15.987566Z 0 [Note] InnoDB: _mm_lfence() and _mm_sfence() are used for memory barrier
+2021-05-05T20:34:15.988120Z 0 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2021-05-05T20:34:15.989043Z 0 [Note] InnoDB: Number of pools: 1
+2021-05-05T20:34:15.989507Z 0 [Note] InnoDB: Not using CPU crc32 instructions
+2021-05-05T20:34:15.992944Z 0 [Note] InnoDB: Initializing buffer pool, total size = 128M, instances = 1, chunk size = 128M
+2021-05-05T20:34:16.001830Z 0 [Note] InnoDB: Completed initialization of buffer pool
+2021-05-05T20:34:16.141051Z 0 [Note] InnoDB: Highest supported file format is Barracuda.
+2021-05-05T20:34:16.752923Z 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2021-05-05T20:34:16.753664Z 0 [Note] InnoDB: Setting file '.\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2021-05-05T20:34:16.973779Z 0 [Note] InnoDB: File '.\ibtmp1' size is now 12 MB.
+2021-05-05T20:34:17.014396Z 0 [Note] InnoDB: 96 redo rollback segment(s) found. 96 redo rollback segment(s) are active.
+2021-05-05T20:34:17.016483Z 0 [Note] InnoDB: 32 non-redo rollback segment(s) are active.
+2021-05-05T20:34:17.019240Z 0 [Note] InnoDB: Waiting for purge to start
+2021-05-05T20:34:17.103115Z 0 [Note] InnoDB: 5.7.24 started; log sequence number 2636914
+2021-05-05T20:34:17.103683Z 0 [Note] InnoDB: Loading buffer pool(s) from D:\laragon\data\mysql\ib_buffer_pool
+2021-05-05T20:34:17.103820Z 0 [Note] Plugin 'FEDERATED' is disabled.
+2021-05-05T20:34:17.430902Z 0 [Warning] Failed to set up SSL because of the following SSL library error: SSL context is not usable without certificate and private key
+2021-05-05T20:34:17.432050Z 0 [Note] Server hostname (bind-address): '*'; port: 3306
+2021-05-05T20:34:17.432940Z 0 [Note] IPv6 is available.
+2021-05-05T20:34:17.433356Z 0 [Note]   - '::' resolves to '::';
+2021-05-05T20:34:17.433866Z 0 [Note] Server socket created on IP: '::'.
+2021-05-05T20:34:17.434414Z 0 [ERROR] Can't start server: Bind on TCP/IP port: No such file or directory
+2021-05-05T20:34:17.435126Z 0 [ERROR] Do you already have another mysqld server running on port: 3306 ?
+2021-05-05T20:34:17.435842Z 0 [ERROR] Aborting
+
+2021-05-05T20:34:17.436187Z 0 [Note] Binlog end
+2021-05-05T20:34:17.436562Z 0 [Note] Shutting down plugin 'ngram'
+2021-05-05T20:34:17.437011Z 0 [Note] Shutting down plugin 'partition'
+2021-05-05T20:34:17.437519Z 0 [Note] Shutting down plugin 'BLACKHOLE'
+2021-05-05T20:34:17.437986Z 0 [Note] Shutting down plugin 'ARCHIVE'
+2021-05-05T20:34:17.438326Z 0 [Note] Shutting down plugin 'PERFORMANCE_SCHEMA'
+2021-05-05T20:34:17.438627Z 0 [Note] Shutting down plugin 'MRG_MYISAM'
+2021-05-05T20:34:17.438878Z 0 [Note] Shutting down plugin 'MyISAM'
+2021-05-05T20:34:17.439136Z 0 [Note] Shutting down plugin 'INNODB_SYS_VIRTUAL'
+2021-05-05T20:34:17.439414Z 0 [Note] Shutting down plugin 'INNODB_SYS_DATAFILES'
+2021-05-05T20:34:17.439696Z 0 [Note] Shutting down plugin 'INNODB_SYS_TABLESPACES'
+2021-05-05T20:34:17.439993Z 0 [Note] Shutting down plugin 'INNODB_SYS_FOREIGN_COLS'
+2021-05-05T20:34:17.440294Z 0 [Note] Shutting down plugin 'INNODB_SYS_FOREIGN'
+2021-05-05T20:34:17.440568Z 0 [Note] Shutting down plugin 'INNODB_SYS_FIELDS'
+2021-05-05T20:34:17.440838Z 0 [Note] Shutting down plugin 'INNODB_SYS_COLUMNS'
+2021-05-05T20:34:17.441118Z 0 [Note] Shutting down plugin 'INNODB_SYS_INDEXES'
+2021-05-05T20:34:17.441394Z 0 [Note] Shutting down plugin 'INNODB_SYS_TABLESTATS'
+2021-05-05T20:34:17.441678Z 0 [Note] Shutting down plugin 'INNODB_SYS_TABLES'
+2021-05-05T20:34:17.441948Z 0 [Note] Shutting down plugin 'INNODB_FT_INDEX_TABLE'
+2021-05-05T20:34:17.442241Z 0 [Note] Shutting down plugin 'INNODB_FT_INDEX_CACHE'
+2021-05-05T20:34:17.442527Z 0 [Note] Shutting down plugin 'INNODB_FT_CONFIG'
+2021-05-05T20:34:17.442794Z 0 [Note] Shutting down plugin 'INNODB_FT_BEING_DELETED'
+2021-05-05T20:34:17.443091Z 0 [Note] Shutting down plugin 'INNODB_FT_DELETED'
+2021-05-05T20:34:17.443362Z 0 [Note] Shutting down plugin 'INNODB_FT_DEFAULT_STOPWORD'
+2021-05-05T20:34:17.443665Z 0 [Note] Shutting down plugin 'INNODB_METRICS'
+2021-05-05T20:34:17.443925Z 0 [Note] Shutting down plugin 'INNODB_TEMP_TABLE_INFO'
+2021-05-05T20:34:17.444219Z 0 [Note] Shutting down plugin 'INNODB_BUFFER_POOL_STATS'
+2021-05-05T20:34:17.444513Z 0 [Note] Shutting down plugin 'INNODB_BUFFER_PAGE_LRU'
+2021-05-05T20:34:17.444858Z 0 [Note] Shutting down plugin 'INNODB_BUFFER_PAGE'
+2021-05-05T20:34:17.445143Z 0 [Note] Shutting down plugin 'INNODB_CMP_PER_INDEX_RESET'
+2021-05-05T20:34:17.445447Z 0 [Note] Shutting down plugin 'INNODB_CMP_PER_INDEX'
+2021-05-05T20:34:17.445730Z 0 [Note] Shutting down plugin 'INNODB_CMPMEM_RESET'
+2021-05-05T20:34:17.446008Z 0 [Note] Shutting down plugin 'INNODB_CMPMEM'
+2021-05-05T20:34:17.446285Z 0 [Note] Shutting down plugin 'INNODB_CMP_RESET'
+2021-05-05T20:34:17.446553Z 0 [Note] Shutting down plugin 'INNODB_CMP'
+2021-05-05T20:34:17.446802Z 0 [Note] Shutting down plugin 'INNODB_LOCK_WAITS'
+2021-05-05T20:34:17.447097Z 0 [Note] Shutting down plugin 'INNODB_LOCKS'
+2021-05-05T20:34:17.447351Z 0 [Note] Shutting down plugin 'INNODB_TRX'
+2021-05-05T20:34:17.447598Z 0 [Note] Shutting down plugin 'InnoDB'
+2021-05-05T20:34:17.447868Z 0 [Note] InnoDB: FTS optimize thread exiting.
+2021-05-05T20:34:17.448232Z 0 [Note] InnoDB: Starting shutdown...
+2021-05-05T20:34:17.454965Z 0 [Note] InnoDB: Buffer pool(s) load completed at 210505 17:34:17
+2021-05-05T20:34:17.455403Z 0 [Note] InnoDB: Dumping buffer pool(s) to D:\laragon\data\mysql\ib_buffer_pool
+2021-05-05T20:34:17.456253Z 0 [Note] InnoDB: Buffer pool(s) dump completed at 210505 17:34:17
+2021-05-05T20:34:18.560858Z 0 [Note] InnoDB: Shutdown completed; log sequence number 2636933
+2021-05-05T20:34:18.561396Z 0 [Note] InnoDB: Removed temporary tablespace data file: "ibtmp1"
+2021-05-05T20:34:18.561735Z 0 [Note] Shutting down plugin 'MEMORY'
+2021-05-05T20:34:18.561971Z 0 [Note] Shutting down plugin 'CSV'
+2021-05-05T20:34:18.562191Z 0 [Note] Shutting down plugin 'sha256_password'
+2021-05-05T20:34:18.562447Z 0 [Note] Shutting down plugin 'mysql_native_password'
+2021-05-05T20:34:18.562823Z 0 [Note] Shutting down plugin 'binlog'
+2021-05-05T20:34:18.566599Z 0 [Note] D:\laragon\bin\mysql\mysql-5.7.24-winx64\bin\mysqld: Shutdown complete
+
+2021-05-05T20:34:47.451022Z 0 [Warning] Insecure configuration for --secure-file-priv: Current value does not restrict location of generated files. Consider setting it to a valid, non-empty path.
+2021-05-05T20:34:47.451611Z 0 [ERROR] Cannot open Windows EventLog; check privileges, or start server with --log_syslog=0
+2021-05-05T20:34:47.451631Z 0 [Note] D:\laragon\bin\mysql\mysql-5.7.24-winx64\bin\mysqld (mysqld 5.7.24) starting as process 17916 ...
+2021-05-06T00:47:04.759486Z 0 [Warning] Insecure configuration for --secure-file-priv: Current value does not restrict location of generated files. Consider setting it to a valid, non-empty path.
+2021-05-06T00:47:04.759947Z 0 [ERROR] Cannot open Windows EventLog; check privileges, or start server with --log_syslog=0
+2021-05-06T00:47:04.759964Z 0 [Note] D:\laragon\bin\mysql\mysql-5.7.24-winx64\bin\mysqld (mysqld 5.7.24) starting as process 7016 ...
+2021-05-06T21:31:08.515342Z 0 [Warning] Insecure configuration for --secure-file-priv: Current value does not restrict location of generated files. Consider setting it to a valid, non-empty path.
+2021-05-06T21:31:08.552346Z 0 [ERROR] Cannot open Windows EventLog; check privileges, or start server with --log_syslog=0
+2021-05-06T21:31:08.552366Z 0 [Note] D:\laragon\bin\mysql\mysql-5.7.24-winx64\bin\mysqld (mysqld 5.7.24) starting as process 11392 ...
+2021-05-13T20:23:06.665345Z 0 [Warning] Insecure configuration for --secure-file-priv: Current value does not restrict location of generated files. Consider setting it to a valid, non-empty path.
+2021-05-13T20:23:06.678584Z 0 [ERROR] Cannot open Windows EventLog; check privileges, or start server with --log_syslog=0
+2021-05-13T20:23:06.678602Z 0 [Note] D:\laragon\bin\mysql\mysql-5.7.24-winx64\bin\mysqld (mysqld 5.7.24) starting as process 11124 ...
+2021-05-19T21:12:06.074268Z 0 [Warning] Insecure configuration for --secure-file-priv: Current value does not restrict location of generated files. Consider setting it to a valid, non-empty path.
+2021-05-19T21:12:06.102608Z 0 [ERROR] Cannot open Windows EventLog; check privileges, or start server with --log_syslog=0
+2021-05-19T21:12:06.102647Z 0 [Note] D:\laragon\bin\mysql\mysql-5.7.24-winx64\bin\mysqld (mysqld 5.7.24) starting as process 3268 ...
+2021-05-19T21:12:15.159674Z 0 [Warning] Insecure configuration for --secure-file-priv: Current value does not restrict location of generated files. Consider setting it to a valid, non-empty path.
+2021-05-19T21:12:15.159946Z 0 [ERROR] Cannot open Windows EventLog; check privileges, or start server with --log_syslog=0
+2021-05-19T21:12:15.159990Z 0 [Note] D:\laragon\bin\mysql\mysql-5.7.24-winx64\bin\mysqld (mysqld 5.7.24) starting as process 2264 ...
+2021-05-19T21:12:15.172852Z 0 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2021-05-19T21:12:15.173204Z 0 [Note] InnoDB: Uses event mutexes
+2021-05-19T21:12:15.173433Z 0 [Note] InnoDB: _mm_lfence() and _mm_sfence() are used for memory barrier
+2021-05-19T21:12:15.173786Z 0 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2021-05-19T21:12:15.174434Z 0 [Note] InnoDB: Number of pools: 1
+2021-05-19T21:12:15.174757Z 0 [Note] InnoDB: Not using CPU crc32 instructions
+2021-05-19T21:12:15.177508Z 0 [Note] InnoDB: Initializing buffer pool, total size = 128M, instances = 1, chunk size = 128M
+2021-05-19T21:12:15.183348Z 0 [Note] InnoDB: Completed initialization of buffer pool
+2021-05-19T21:12:15.233154Z 0 [Note] InnoDB: Highest supported file format is Barracuda.
+2021-05-19T21:12:15.351799Z 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2021-05-19T21:12:15.352323Z 0 [Note] InnoDB: Setting file '.\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2021-05-19T21:12:15.462446Z 0 [Note] InnoDB: File '.\ibtmp1' size is now 12 MB.
+2021-05-19T21:12:15.488454Z 0 [Note] InnoDB: 96 redo rollback segment(s) found. 96 redo rollback segment(s) are active.
+2021-05-19T21:12:15.490006Z 0 [Note] InnoDB: 32 non-redo rollback segment(s) are active.
+2021-05-19T21:12:15.492698Z 0 [Note] InnoDB: Waiting for purge to start
+2021-05-19T21:12:15.559439Z 0 [Note] InnoDB: 5.7.24 started; log sequence number 2649324
+2021-05-19T21:12:15.560032Z 0 [Note] InnoDB: Loading buffer pool(s) from D:\laragon\data\mysql\ib_buffer_pool
+2021-05-19T21:12:15.560183Z 0 [Note] Plugin 'FEDERATED' is disabled.
+2021-05-19T21:12:15.607076Z 0 [Warning] Failed to set up SSL because of the following SSL library error: SSL context is not usable without certificate and private key
+2021-05-19T21:12:15.607719Z 0 [Note] Server hostname (bind-address): '*'; port: 3306
+2021-05-19T21:12:15.608267Z 0 [Note] IPv6 is available.
+2021-05-19T21:12:15.608532Z 0 [Note]   - '::' resolves to '::';
+2021-05-19T21:12:15.608853Z 0 [Note] Server socket created on IP: '::'.
+2021-05-19T21:12:15.609171Z 0 [ERROR] Can't start server: Bind on TCP/IP port: No such file or directory
+2021-05-19T21:12:15.609614Z 0 [ERROR] Do you already have another mysqld server running on port: 3306 ?
+2021-05-19T21:12:15.610022Z 0 [ERROR] Aborting
+
+2021-05-19T21:12:15.610271Z 0 [Note] Binlog end
+2021-05-19T21:12:15.610495Z 0 [Note] Shutting down plugin 'ngram'
+2021-05-19T21:12:15.610783Z 0 [Note] Shutting down plugin 'partition'
+2021-05-19T21:12:15.611067Z 0 [Note] Shutting down plugin 'BLACKHOLE'
+2021-05-19T21:12:15.611351Z 0 [Note] Shutting down plugin 'ARCHIVE'
+2021-05-19T21:12:15.611589Z 0 [Note] Shutting down plugin 'PERFORMANCE_SCHEMA'
+2021-05-19T21:12:15.611763Z 0 [Note] InnoDB: Buffer pool(s) load completed at 210519 18:12:15
+2021-05-19T21:12:15.611905Z 0 [Note] Shutting down plugin 'MRG_MYISAM'
+2021-05-19T21:12:15.612511Z 0 [Note] Shutting down plugin 'MyISAM'
+2021-05-19T21:12:15.612756Z 0 [Note] Shutting down plugin 'INNODB_SYS_VIRTUAL'
+2021-05-19T21:12:15.613026Z 0 [Note] Shutting down plugin 'INNODB_SYS_DATAFILES'
+2021-05-19T21:12:15.613320Z 0 [Note] Shutting down plugin 'INNODB_SYS_TABLESPACES'
+2021-05-19T21:12:15.613599Z 0 [Note] Shutting down plugin 'INNODB_SYS_FOREIGN_COLS'
+2021-05-19T21:12:15.613879Z 0 [Note] Shutting down plugin 'INNODB_SYS_FOREIGN'
+2021-05-19T21:12:15.614142Z 0 [Note] Shutting down plugin 'INNODB_SYS_FIELDS'
+2021-05-19T21:12:15.614465Z 0 [Note] Shutting down plugin 'INNODB_SYS_COLUMNS'
+2021-05-19T21:12:15.614729Z 0 [Note] Shutting down plugin 'INNODB_SYS_INDEXES'
+2021-05-19T21:12:15.614999Z 0 [Note] Shutting down plugin 'INNODB_SYS_TABLESTATS'
+2021-05-19T21:12:15.615268Z 0 [Note] Shutting down plugin 'INNODB_SYS_TABLES'
+2021-05-19T21:12:15.615544Z 0 [Note] Shutting down plugin 'INNODB_FT_INDEX_TABLE'
+2021-05-19T21:12:15.615813Z 0 [Note] Shutting down plugin 'INNODB_FT_INDEX_CACHE'
+2021-05-19T21:12:15.616080Z 0 [Note] Shutting down plugin 'INNODB_FT_CONFIG'
+2021-05-19T21:12:15.616330Z 0 [Note] Shutting down plugin 'INNODB_FT_BEING_DELETED'
+2021-05-19T21:12:15.616624Z 0 [Note] Shutting down plugin 'INNODB_FT_DELETED'
+2021-05-19T21:12:15.616880Z 0 [Note] Shutting down plugin 'INNODB_FT_DEFAULT_STOPWORD'
+2021-05-19T21:12:15.617161Z 0 [Note] Shutting down plugin 'INNODB_METRICS'
+2021-05-19T21:12:15.617416Z 0 [Note] Shutting down plugin 'INNODB_TEMP_TABLE_INFO'
+2021-05-19T21:12:15.617696Z 0 [Note] Shutting down plugin 'INNODB_BUFFER_POOL_STATS'
+2021-05-19T21:12:15.617973Z 0 [Note] Shutting down plugin 'INNODB_BUFFER_PAGE_LRU'
+2021-05-19T21:12:15.618242Z 0 [Note] Shutting down plugin 'INNODB_BUFFER_PAGE'
+2021-05-19T21:12:15.618520Z 0 [Note] Shutting down plugin 'INNODB_CMP_PER_INDEX_RESET'
+2021-05-19T21:12:15.618804Z 0 [Note] Shutting down plugin 'INNODB_CMP_PER_INDEX'
+2021-05-19T21:12:15.619067Z 0 [Note] Shutting down plugin 'INNODB_CMPMEM_RESET'
+2021-05-19T21:12:15.619346Z 0 [Note] Shutting down plugin 'INNODB_CMPMEM'
+2021-05-19T21:12:15.619609Z 0 [Note] Shutting down plugin 'INNODB_CMP_RESET'
+2021-05-19T21:12:15.619861Z 0 [Note] Shutting down plugin 'INNODB_CMP'
+2021-05-19T21:12:15.620092Z 0 [Note] Shutting down plugin 'INNODB_LOCK_WAITS'
+2021-05-19T21:12:15.620344Z 0 [Note] Shutting down plugin 'INNODB_LOCKS'
+2021-05-19T21:12:15.620593Z 0 [Note] Shutting down plugin 'INNODB_TRX'
+2021-05-19T21:12:15.620833Z 0 [Note] Shutting down plugin 'InnoDB'
+2021-05-19T21:12:15.621110Z 0 [Note] InnoDB: FTS optimize thread exiting.
+2021-05-19T21:12:15.621482Z 0 [Note] InnoDB: Starting shutdown...
+2021-05-19T21:12:15.725165Z 0 [Note] InnoDB: Dumping buffer pool(s) to D:\laragon\data\mysql\ib_buffer_pool
+2021-05-19T21:12:15.727135Z 0 [Note] InnoDB: Buffer pool(s) dump completed at 210519 18:12:15
+2021-05-19T21:12:17.105822Z 0 [Note] InnoDB: Shutdown completed; log sequence number 2649343
+2021-05-19T21:12:17.106632Z 0 [Note] InnoDB: Removed temporary tablespace data file: "ibtmp1"
+2021-05-19T21:12:17.107210Z 0 [Note] Shutting down plugin 'MEMORY'
+2021-05-19T21:12:17.107654Z 0 [Note] Shutting down plugin 'CSV'
+2021-05-19T21:12:17.108050Z 0 [Note] Shutting down plugin 'sha256_password'
+2021-05-19T21:12:17.108508Z 0 [Note] Shutting down plugin 'mysql_native_password'
+2021-05-19T21:12:17.109134Z 0 [Note] Shutting down plugin 'binlog'
+2021-05-19T21:12:17.114670Z 0 [Note] D:\laragon\bin\mysql\mysql-5.7.24-winx64\bin\mysqld: Shutdown complete
+
+2021-05-19T21:12:55.370023Z 0 [Warning] Insecure configuration for --secure-file-priv: Current value does not restrict location of generated files. Consider setting it to a valid, non-empty path.
+2021-05-19T21:12:55.370649Z 0 [ERROR] Cannot open Windows EventLog; check privileges, or start server with --log_syslog=0
+2021-05-19T21:12:55.370675Z 0 [Note] D:\laragon\bin\mysql\mysql-5.7.24-winx64\bin\mysqld (mysqld 5.7.24) starting as process 8772 ...
+2021-05-19T21:24:02.158973Z 0 [Warning] Insecure configuration for --secure-file-priv: Current value does not restrict location of generated files. Consider setting it to a valid, non-empty path.
+2021-05-19T21:24:02.159452Z 0 [ERROR] Cannot open Windows EventLog; check privileges, or start server with --log_syslog=0
+2021-05-19T21:24:02.159468Z 0 [Note] D:\laragon\bin\mysql\mysql-5.7.24-winx64\bin\mysqld (mysqld 5.7.24) starting as process 6264 ...
+2021-05-19T21:26:29.121048Z 0 [Warning] Insecure configuration for --secure-file-priv: Current value does not restrict location of generated files. Consider setting it to a valid, non-empty path.
+2021-05-19T21:26:29.121508Z 0 [ERROR] Cannot open Windows EventLog; check privileges, or start server with --log_syslog=0
+2021-05-19T21:26:29.121524Z 0 [Note] D:\laragon\bin\mysql\mysql-5.7.24-winx64\bin\mysqld (mysqld 5.7.24) starting as process 11232 ...
+2021-05-19T21:28:52.885531Z 0 [Warning] Insecure configuration for --secure-file-priv: Current value does not restrict location of generated files. Consider setting it to a valid, non-empty path.
+2021-05-19T21:28:52.885987Z 0 [ERROR] Cannot open Windows EventLog; check privileges, or start server with --log_syslog=0
+2021-05-19T21:28:52.886003Z 0 [Note] D:\laragon\bin\mysql\mysql-5.7.24-winx64\bin\mysqld (mysqld 5.7.24) starting as process 13156 ...
+2021-06-15T18:50:04.435282Z 0 [Warning] Insecure configuration for --secure-file-priv: Current value does not restrict location of generated files. Consider setting it to a valid, non-empty path.
+2021-06-15T18:50:04.483742Z 0 [ERROR] Cannot open Windows EventLog; check privileges, or start server with --log_syslog=0
+2021-06-15T18:50:04.483783Z 0 [Note] C:\Users\samas\Downloads\laragon_aula\laragon_aula\bin\mysql\mysql-5.7.24-winx64\bin\mysqld (mysqld 5.7.24) starting as process 13912 ...
+2021-06-15T19:27:02.002549Z 0 [Warning] Insecure configuration for --secure-file-priv: Current value does not restrict location of generated files. Consider setting it to a valid, non-empty path.
+2021-06-15T19:27:02.003157Z 0 [ERROR] Cannot open Windows EventLog; check privileges, or start server with --log_syslog=0
+2021-06-15T19:27:02.003185Z 0 [Note] C:\Users\samas\Documents\Vianna\TADS\prova-2bim-JuliaMdeiros\laragon_aula\bin\mysql\mysql-5.7.24-winx64\bin\mysqld (mysqld 5.7.24) starting as process 15372 ...
+2021-06-17T14:52:23.883199Z 0 [Warning] Insecure configuration for --secure-file-priv: Current value does not restrict location of generated files. Consider setting it to a valid, non-empty path.
+2021-06-17T14:52:23.920315Z 0 [ERROR] Cannot open Windows EventLog; check privileges, or start server with --log_syslog=0
+2021-06-17T14:52:23.920355Z 0 [Note] C:\Users\samas\Documents\Vianna\TADS\prova-2bim-JuliaMdeiros\laragon_aula\bin\mysql\mysql-5.7.24-winx64\bin\mysqld (mysqld 5.7.24) starting as process 11180 ...
+2021-06-17T15:19:05.867251Z 0 [Warning] Insecure configuration for --secure-file-priv: Current value does not restrict location of generated files. Consider setting it to a valid, non-empty path.
+2021-06-17T15:19:05.900275Z 0 [ERROR] Cannot open Windows EventLog; check privileges, or start server with --log_syslog=0
+2021-06-17T15:19:05.900316Z 0 [Note] C:\Users\samas\Documents\Vianna\TADS\Aula\laragon_aula\bin\mysql\mysql-5.7.24-winx64\bin\mysqld (mysqld 5.7.24) starting as process 4600 ...
+2021-06-18T19:58:05.904653Z 0 [Warning] Insecure configuration for --secure-file-priv: Current value does not restrict location of generated files. Consider setting it to a valid, non-empty path.
+2021-06-18T19:58:06.089243Z 0 [ERROR] Cannot open Windows EventLog; check privileges, or start server with --log_syslog=0
+2021-06-18T19:58:06.089294Z 0 [Note] C:\Users\samas\Documents\Vianna\TADS\Aula\laragon_aula\bin\mysql\mysql-5.7.24-winx64\bin\mysqld (mysqld 5.7.24) starting as process 14764 ...
+2021-06-27T19:20:55.886112Z 0 [Warning] Insecure configuration for --secure-file-priv: Current value does not restrict location of generated files. Consider setting it to a valid, non-empty path.
+2021-06-27T19:20:55.902271Z 0 [ERROR] Cannot open Windows EventLog; check privileges, or start server with --log_syslog=0
+2021-06-27T19:20:55.902300Z 0 [Note] C:\Users\samas\Documents\Vianna\TADS\Aula\laragon_aula\bin\mysql\mysql-5.7.24-winx64\bin\mysqld (mysqld 5.7.24) starting as process 1888 ...
+2021-07-01T23:15:22.696524Z 0 [Warning] Insecure configuration for --secure-file-priv: Current value does not restrict location of generated files. Consider setting it to a valid, non-empty path.
+2021-07-01T23:15:22.764611Z 0 [ERROR] Cannot open Windows EventLog; check privileges, or start server with --log_syslog=0
+2021-07-01T23:15:22.764649Z 0 [Note] C:\Users\samas\Documents\Vianna\trabalho2BI\laragon_aula\bin\mysql\mysql-5.7.24-winx64\bin\mysqld (mysqld 5.7.24) starting as process 8812 ...

@@ -1,0 +1,39 @@
+cd Gildo\
+cd Vianna\
+cd 2021_1\
+ls
+cd ..
+cd laravel_base\1
+composer create-project laravel/laravel laravel_base
+exit
+composer create-project laravel/laravel laravel_base
+exit
+cd ..
+cd..
+cd www\
+cd laragon_aula
+cd www
+ls
+cd aula
+clear
+php artisan key:generate
+php artisan storage:link
+php artisan make:controller HelloWorldController
+clear
+php artisan key:generate
+php artisan storage:link
+php artisan make:controller UserController --resource
+php artisan route:list
+php artisan make:controller HelloWorldController
+php artisan make:controller Admin/PostController
+php artisan migrate:install
+php artisan make:migratiob create_table_post --create=posts
+php artisan make:migration create_table_post --create=posts
+php artisan make:migration alter_table_posts_add_column_user_id --table=posts
+php artisan make:seeder UsersTableSeeder
+php artisan make:seeder PostsTableSeeder
+php artisan db:seed
+php artisan make:model Category -m -c -r
+php artisan make:migration create_table_posts_categories --create=posts_categories
+php artisan migrate
+composer require laracasts/flash

@@ -1,0 +1,10 @@
+<NotepadPlus>
+    <Session activeView="0">
+        <mainView activeIndex="2">
+            <File firstVisibleLine="835" xOffset="0" scrollWidth="2560" startPos="34896" endPos="34898" selMode="0" lang="INI file" encoding="-1" filename="D:\laragon\bin\php\php-7.4.16-nts-Win32-vc15-x64\php.ini" backupFilePath="" originalFileLastModifTimestamp="1619735890" mapFirstVisibleDisplayLine="-1" mapFirstVisibleDocLine="-1" mapLastVisibleDocLine="-1" mapNbLine="-1" mapHigherPos="-1" mapWidth="-1" mapHeight="-1" mapKByteInDoc="0" mapWrapIndentMode="-1" mapIsWrap="no" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="1248" startPos="171" endPos="0" selMode="0" lang="PHP" encoding="-1" filename="D:\Gildo\Vianna\2021_1\tads_11.php" backupFilePath="D:\laragon\bin\notepad++\backup\tads_11.php@2021-05-05_162046" originalFileLastModifTimestamp="1620242105" mapFirstVisibleDisplayLine="-1" mapFirstVisibleDocLine="-1" mapLastVisibleDocLine="-1" mapNbLine="-1" mapHigherPos="-1" mapWidth="-1" mapHeight="-1" mapKByteInDoc="1663067490" mapWrapIndentMode="-1" mapIsWrap="no" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="576" startPos="19" endPos="25" selMode="0" lang="JSON" encoding="-1" filename="D:\laragon\www\aula22\css-color-names.json" backupFilePath="" originalFileLastModifTimestamp="1620245975" mapFirstVisibleDisplayLine="-1" mapFirstVisibleDocLine="-1" mapLastVisibleDocLine="-1" mapNbLine="-1" mapHigherPos="-1" mapWidth="-1" mapHeight="-1" mapKByteInDoc="43830" mapWrapIndentMode="-1" mapIsWrap="no" />
+        </mainView>
+        <subView activeIndex="0" />
+    </Session>
+</NotepadPlus>

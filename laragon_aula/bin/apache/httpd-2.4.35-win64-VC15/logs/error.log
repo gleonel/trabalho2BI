@@ -1,0 +1,128 @@
+[Wed Apr 07 21:53:31.356018 2021] [mpm_winnt:notice] [pid 15900:tid 676] AH00455: Apache/2.4.35 (Win64) OpenSSL/1.1.1b PHP/7.2.19 configured -- resuming normal operations
+[Wed Apr 07 21:53:31.356018 2021] [mpm_winnt:notice] [pid 15900:tid 676] AH00456: Apache Lounge VC15 Server built: Sep 19 2018 16:08:47
+[Wed Apr 07 21:53:31.356018 2021] [core:notice] [pid 15900:tid 676] AH00094: Command line: 'D:\\laragon\\bin\\apache\\httpd-2.4.35-win64-VC15\\bin\\httpd -d D:/laragon/bin/apache/httpd-2.4.35-win64-VC15'
+[Wed Apr 07 21:53:31.360020 2021] [mpm_winnt:notice] [pid 15900:tid 676] AH00418: Parent: Created child process 6696
+Apache server interrupted...
+021] [mpm_winnt:notice] [pid 6696:tid 672] AH00354: Child: Starting 64 worker threads.
+[Wed Apr 07 23:15:23.052152 2021] [mpm_winnt:notice] [pid 15900:tid 676] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Wed Apr 07 23:15:25.066087 2021] [mpm_winnt:notice] [pid 6696:tid 672] AH00364: Child: All worker threads have exited.
+[Thu Apr 15 21:55:46.220407 2021] [core:warn] [pid 3896:tid 500] AH00098: pid file D:/laragon/bin/apache/httpd-2.4.35-win64-VC15/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Apr 15 21:55:47.717728 2021] [mpm_winnt:notice] [pid 3896:tid 500] AH00455: Apache/2.4.35 (Win64) OpenSSL/1.1.1b PHP/7.2.19 configured -- resuming normal operations
+[Thu Apr 15 21:55:47.717728 2021] [mpm_winnt:notice] [pid 3896:tid 500] AH00456: Apache Lounge VC15 Server built: Sep 19 2018 16:08:47
+[Thu Apr 15 21:55:47.717728 2021] [core:notice] [pid 3896:tid 500] AH00094: Command line: 'D:\\laragon\\bin\\apache\\httpd-2.4.35-win64-VC15\\bin\\httpd -d D:/laragon/bin/apache/httpd-2.4.35-win64-VC15'
+[Thu Apr 15 21:55:47.717728 2021] [mpm_winnt:notice] [pid 3896:tid 500] AH00418: Parent: Created child process 8088
+Apache server interrupted...
+021] [mpm_winnt:notice] [pid 8088:tid 684] AH00354: Child: Starting 64 worker threads.
+[Thu Apr 15 23:25:44.693022 2021] [mpm_winnt:notice] [pid 3896:tid 500] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Thu Apr 15 23:25:46.720220 2021] [mpm_winnt:notice] [pid 8088:tid 684] AH00364: Child: All worker threads have exited.
+[Thu Apr 22 18:22:53.800782 2021] [core:warn] [pid 13652:tid 540] AH00098: pid file D:/laragon/bin/apache/httpd-2.4.35-win64-VC15/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Apr 22 18:22:53.825954 2021] [mpm_winnt:notice] [pid 13652:tid 540] AH00455: Apache/2.4.35 (Win64) OpenSSL/1.1.1b mod_fcgid/2.3.9 configured -- resuming normal operations
+[Thu Apr 22 18:22:53.825954 2021] [mpm_winnt:notice] [pid 13652:tid 540] AH00456: Apache Lounge VC15 Server built: Sep 19 2018 16:08:47
+[Thu Apr 22 18:22:53.825954 2021] [core:notice] [pid 13652:tid 540] AH00094: Command line: 'D:\\laragon\\bin\\apache\\httpd-2.4.35-win64-VC15\\bin\\httpd -d D:/laragon/bin/apache/httpd-2.4.35-win64-VC15'
+[Thu Apr 22 18:22:53.827941 2021] [mpm_winnt:notice] [pid 13652:tid 540] AH00418: Parent: Created child process 11028
+[Thu Apr 22 18:22:54.413917 2021] [mpm_winnt:notice] [pid 11028:tid 604] AH00354: Child: Starting 64 worker threads.
+[Wed Apr 28 20:40:46.106556 2021] [core:warn] [pid 15756:tid 540] AH00098: pid file D:/laragon/bin/apache/httpd-2.4.35-win64-VC15/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Wed Apr 28 20:40:46.131571 2021] [mpm_winnt:notice] [pid 15756:tid 540] AH00455: Apache/2.4.35 (Win64) OpenSSL/1.1.1b mod_fcgid/2.3.9 configured -- resuming normal operations
+[Wed Apr 28 20:40:46.131571 2021] [mpm_winnt:notice] [pid 15756:tid 540] AH00456: Apache Lounge VC15 Server built: Sep 19 2018 16:08:47
+[Wed Apr 28 20:40:46.131571 2021] [core:notice] [pid 15756:tid 540] AH00094: Command line: 'D:\\laragon\\bin\\apache\\httpd-2.4.35-win64-VC15\\bin\\httpd -d D:/laragon/bin/apache/httpd-2.4.35-win64-VC15'
+[Wed Apr 28 20:40:46.144570 2021] [mpm_winnt:notice] [pid 15756:tid 540] AH00418: Parent: Created child process 5124
+Apache server interrupted...
+021] [mpm_winnt:notice] [pid 5124:tid 592] AH00354: Child: Starting 64 worker threads.
+[Wed Apr 28 22:03:33.659678 2021] [mpm_winnt:notice] [pid 15756:tid 540] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Wed Apr 28 22:03:35.673513 2021] [mpm_winnt:notice] [pid 5124:tid 592] AH00364: Child: All worker threads have exited.
+[Thu Apr 29 18:07:03.236886 2021] [core:warn] [pid 13156:tid 504] AH00098: pid file D:/laragon/bin/apache/httpd-2.4.35-win64-VC15/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Apr 29 18:07:03.252508 2021] [mpm_winnt:notice] [pid 13156:tid 504] AH00455: Apache/2.4.35 (Win64) OpenSSL/1.1.1b mod_fcgid/2.3.9 configured -- resuming normal operations
+[Thu Apr 29 18:07:03.252508 2021] [mpm_winnt:notice] [pid 13156:tid 504] AH00456: Apache Lounge VC15 Server built: Sep 19 2018 16:08:47
+[Thu Apr 29 18:07:03.252508 2021] [core:notice] [pid 13156:tid 504] AH00094: Command line: 'D:\\laragon\\bin\\apache\\httpd-2.4.35-win64-VC15\\bin\\httpd -d D:/laragon/bin/apache/httpd-2.4.35-win64-VC15'
+[Thu Apr 29 18:07:03.252508 2021] [mpm_winnt:notice] [pid 13156:tid 504] AH00418: Parent: Created child process 5008
+Apache server interrupted...
+021] [mpm_winnt:notice] [pid 5008:tid 556] AH00354: Child: Starting 64 worker threads.
+[Thu Apr 29 18:09:33.840052 2021] [mpm_winnt:notice] [pid 13156:tid 504] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Thu Apr 29 18:09:35.874870 2021] [mpm_winnt:notice] [pid 5008:tid 556] AH00364: Child: All worker threads have exited.
+[Thu Apr 29 18:10:45.201161 2021] [core:warn] [pid 9028:tid 496] AH00098: pid file D:/laragon/bin/apache/httpd-2.4.35-win64-VC15/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Apr 29 18:10:45.212161 2021] [mpm_winnt:notice] [pid 9028:tid 496] AH00455: Apache/2.4.35 (Win64) OpenSSL/1.1.1b mod_fcgid/2.3.9 configured -- resuming normal operations
+[Thu Apr 29 18:10:45.212161 2021] [mpm_winnt:notice] [pid 9028:tid 496] AH00456: Apache Lounge VC15 Server built: Sep 19 2018 16:08:47
+[Thu Apr 29 18:10:45.212161 2021] [core:notice] [pid 9028:tid 496] AH00094: Command line: 'D:\\laragon\\bin\\apache\\httpd-2.4.35-win64-VC15\\bin\\httpd -d D:/laragon/bin/apache/httpd-2.4.35-win64-VC15'
+[Thu Apr 29 18:10:45.222144 2021] [mpm_winnt:notice] [pid 9028:tid 496] AH00418: Parent: Created child process 7984
+Apache server interrupted...
+021] [mpm_winnt:notice] [pid 7984:tid 572] AH00354: Child: Starting 64 worker threads.
+[Thu Apr 29 19:37:41.369721 2021] [mpm_winnt:notice] [pid 9028:tid 496] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Thu Apr 29 19:37:46.358087 2021] [core:warn] [pid 12760:tid 528] AH00098: pid file D:/laragon/bin/apache/httpd-2.4.35-win64-VC15/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Apr 29 19:37:46.371073 2021] [mpm_winnt:notice] [pid 12760:tid 528] AH00455: Apache/2.4.35 (Win64) OpenSSL/1.1.1b mod_fcgid/2.3.9 configured -- resuming normal operations
+[Thu Apr 29 19:37:46.371073 2021] [mpm_winnt:notice] [pid 12760:tid 528] AH00456: Apache Lounge VC15 Server built: Sep 19 2018 16:08:47
+[Thu Apr 29 19:37:46.371073 2021] [core:notice] [pid 12760:tid 528] AH00094: Command line: 'D:\\laragon\\bin\\apache\\httpd-2.4.35-win64-VC15\\bin\\httpd -d D:/laragon/bin/apache/httpd-2.4.35-win64-VC15'
+[Thu Apr 29 19:37:46.377081 2021] [mpm_winnt:notice] [pid 12760:tid 528] AH00418: Parent: Created child process 11760
+Apache server interrupted...
+021] [mpm_winnt:notice] [pid 11760:tid 624] AH00354: Child: Starting 64 worker threads.
+[Thu Apr 29 19:38:18.873967 2021] [mpm_winnt:notice] [pid 12760:tid 528] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Thu Apr 29 19:38:24.967484 2021] [core:warn] [pid 14976:tid 500] AH00098: pid file D:/laragon/bin/apache/httpd-2.4.35-win64-VC15/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Apr 29 19:38:24.973482 2021] [mpm_winnt:notice] [pid 14976:tid 500] AH00455: Apache/2.4.35 (Win64) OpenSSL/1.1.1b mod_fcgid/2.3.9 configured -- resuming normal operations
+[Thu Apr 29 19:38:24.973482 2021] [mpm_winnt:notice] [pid 14976:tid 500] AH00456: Apache Lounge VC15 Server built: Sep 19 2018 16:08:47
+[Thu Apr 29 19:38:24.973482 2021] [core:notice] [pid 14976:tid 500] AH00094: Command line: 'D:\\laragon\\bin\\apache\\httpd-2.4.35-win64-VC15\\bin\\httpd -d D:/laragon/bin/apache/httpd-2.4.35-win64-VC15'
+[Thu Apr 29 19:38:24.979475 2021] [mpm_winnt:notice] [pid 14976:tid 500] AH00418: Parent: Created child process 5700
+[Thu Apr 29 19:38:25.458175 2021] [mpm_winnt:notice] [pid 5700:tid 636] AH00354: Child: Starting 64 worker threads.
+[Thu Apr 29 20:10:44.550583 2021] [mpm_winnt:crit] [pid 5700:tid 636] AH02538: Child: Parent process exited abruptly. Child process is ending
+[Thu Apr 29 20:10:49.385843 2021] [core:warn] [pid 10220:tid 152] AH00098: pid file D:/laragon/bin/apache/httpd-2.4.35-win64-VC15/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Apr 29 20:10:49.391870 2021] [mpm_winnt:notice] [pid 10220:tid 152] AH00455: Apache/2.4.35 (Win64) OpenSSL/1.1.1b mod_fcgid/2.3.9 configured -- resuming normal operations
+[Thu Apr 29 20:10:49.391870 2021] [mpm_winnt:notice] [pid 10220:tid 152] AH00456: Apache Lounge VC15 Server built: Sep 19 2018 16:08:47
+[Thu Apr 29 20:10:49.391870 2021] [core:notice] [pid 10220:tid 152] AH00094: Command line: 'D:\\laragon\\bin\\apache\\httpd-2.4.35-win64-VC15\\bin\\httpd -d D:/laragon/bin/apache/httpd-2.4.35-win64-VC15'
+[Thu Apr 29 20:10:49.396850 2021] [mpm_winnt:notice] [pid 10220:tid 152] AH00418: Parent: Created child process 10016
+Apache server interrupted...
+021] [mpm_winnt:notice] [pid 10016:tid 636] AH00354: Child: Starting 64 worker threads.
+[Thu Apr 29 20:25:43.577003 2021] [mpm_winnt:notice] [pid 10220:tid 152] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Thu Apr 29 20:25:45.583871 2021] [mpm_winnt:notice] [pid 10016:tid 636] AH00364: Child: All worker threads have exited.
+[Wed May 05 17:34:08.379498 2021] [core:warn] [pid 8920:tid 152] AH00098: pid file D:/laragon/bin/apache/httpd-2.4.35-win64-VC15/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Wed May 05 17:34:08.409281 2021] [mpm_winnt:notice] [pid 8920:tid 152] AH00455: Apache/2.4.35 (Win64) OpenSSL/1.1.1b mod_fcgid/2.3.9 configured -- resuming normal operations
+[Wed May 05 17:34:08.409281 2021] [mpm_winnt:notice] [pid 8920:tid 152] AH00456: Apache Lounge VC15 Server built: Sep 19 2018 16:08:47
+[Wed May 05 17:34:08.409281 2021] [core:notice] [pid 8920:tid 152] AH00094: Command line: 'D:\\laragon\\bin\\apache\\httpd-2.4.35-win64-VC15\\bin\\httpd -d D:/laragon/bin/apache/httpd-2.4.35-win64-VC15'
+[Wed May 05 17:34:08.412281 2021] [mpm_winnt:notice] [pid 8920:tid 152] AH00418: Parent: Created child process 1372
+Apache server interrupted...
+021] [mpm_winnt:notice] [pid 1372:tid 556] AH00354: Child: Starting 64 worker threads.
+[Wed May 05 17:34:42.151170 2021] [mpm_winnt:notice] [pid 8920:tid 152] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Wed May 05 17:34:44.166100 2021] [mpm_winnt:notice] [pid 1372:tid 556] AH00364: Child: All worker threads have exited.
+[Wed May 05 17:34:47.938007 2021] [core:warn] [pid 17844:tid 496] AH00098: pid file D:/laragon/bin/apache/httpd-2.4.35-win64-VC15/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Wed May 05 17:34:47.944007 2021] [mpm_winnt:notice] [pid 17844:tid 496] AH00455: Apache/2.4.35 (Win64) OpenSSL/1.1.1b mod_fcgid/2.3.9 configured -- resuming normal operations
+[Wed May 05 17:34:47.944007 2021] [mpm_winnt:notice] [pid 17844:tid 496] AH00456: Apache Lounge VC15 Server built: Sep 19 2018 16:08:47
+[Wed May 05 17:34:47.945006 2021] [core:notice] [pid 17844:tid 496] AH00094: Command line: 'D:\\laragon\\bin\\apache\\httpd-2.4.35-win64-VC15\\bin\\httpd -d D:/laragon/bin/apache/httpd-2.4.35-win64-VC15'
+[Wed May 05 17:34:47.950008 2021] [mpm_winnt:notice] [pid 17844:tid 496] AH00418: Parent: Created child process 2684
+Apache server interrupted...
+021] [mpm_winnt:notice] [pid 2684:tid 572] AH00354: Child: Starting 64 worker threads.
+[Wed May 05 21:46:37.920255 2021] [mpm_winnt:notice] [pid 17844:tid 496] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Wed May 05 21:47:05.107404 2021] [core:warn] [pid 13248:tid 496] AH00098: pid file D:/laragon/bin/apache/httpd-2.4.35-win64-VC15/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Wed May 05 21:47:05.110404 2021] [mpm_winnt:notice] [pid 13248:tid 496] AH00455: Apache/2.4.35 (Win64) OpenSSL/1.1.1b mod_fcgid/2.3.9 configured -- resuming normal operations
+[Wed May 05 21:47:05.110404 2021] [mpm_winnt:notice] [pid 13248:tid 496] AH00456: Apache Lounge VC15 Server built: Sep 19 2018 16:08:47
+[Wed May 05 21:47:05.110404 2021] [core:notice] [pid 13248:tid 496] AH00094: Command line: 'D:\\laragon\\bin\\apache\\httpd-2.4.35-win64-VC15\\bin\\httpd -d D:/laragon/bin/apache/httpd-2.4.35-win64-VC15'
+[Wed May 05 21:47:05.112407 2021] [mpm_winnt:notice] [pid 13248:tid 496] AH00418: Parent: Created child process 11256
+Apache server interrupted...
+021] [mpm_winnt:notice] [pid 11256:tid 580] AH00354: Child: Starting 64 worker threads.
+[Wed May 05 23:52:51.007675 2021] [mpm_winnt:notice] [pid 13248:tid 496] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Wed May 05 23:52:53.015117 2021] [mpm_winnt:notice] [pid 11256:tid 580] AH00364: Child: All worker threads have exited.
+[Thu May 06 18:31:09.407463 2021] [core:warn] [pid 6496:tid 524] AH00098: pid file D:/laragon/bin/apache/httpd-2.4.35-win64-VC15/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu May 06 18:31:09.423463 2021] [mpm_winnt:notice] [pid 6496:tid 524] AH00455: Apache/2.4.35 (Win64) OpenSSL/1.1.1b mod_fcgid/2.3.9 configured -- resuming normal operations
+[Thu May 06 18:31:09.423463 2021] [mpm_winnt:notice] [pid 6496:tid 524] AH00456: Apache Lounge VC15 Server built: Sep 19 2018 16:08:47
+[Thu May 06 18:31:09.423463 2021] [core:notice] [pid 6496:tid 524] AH00094: Command line: 'D:\\laragon\\bin\\apache\\httpd-2.4.35-win64-VC15\\bin\\httpd -d D:/laragon/bin/apache/httpd-2.4.35-win64-VC15'
+[Thu May 06 18:31:09.425460 2021] [mpm_winnt:notice] [pid 6496:tid 524] AH00418: Parent: Created child process 7416
+[Thu May 06 18:31:09.976813 2021] [mpm_winnt:notice] [pid 7416:tid 592] AH00354: Child: Starting 64 worker threads.
+[Thu May 13 17:23:08.154038 2021] [core:warn] [pid 9020:tid 648] AH00098: pid file D:/laragon/bin/apache/httpd-2.4.35-win64-VC15/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu May 13 17:23:08.185286 2021] [mpm_winnt:notice] [pid 9020:tid 648] AH00455: Apache/2.4.35 (Win64) OpenSSL/1.1.1b mod_fcgid/2.3.9 configured -- resuming normal operations
+[Thu May 13 17:23:08.185286 2021] [mpm_winnt:notice] [pid 9020:tid 648] AH00456: Apache Lounge VC15 Server built: Sep 19 2018 16:08:47
+[Thu May 13 17:23:08.185286 2021] [core:notice] [pid 9020:tid 648] AH00094: Command line: 'D:\\laragon\\bin\\apache\\httpd-2.4.35-win64-VC15\\bin\\httpd -d D:/laragon/bin/apache/httpd-2.4.35-win64-VC15'
+[Thu May 13 17:23:08.195811 2021] [mpm_winnt:notice] [pid 9020:tid 648] AH00418: Parent: Created child process 3000
+Apache server restarting...
+2021] [mpm_winnt:notice] [pid 3000:tid 628] AH00354: Child: Starting 64 worker threads.
+[Thu May 13 17:29:42.959687 2021] [mpm_winnt:notice] [pid 9020:tid 648] AH00424: Parent: Received restart signal -- Restarting the server.
+[Thu May 13 17:29:43.205999 2021] [mpm_winnt:notice] [pid 9020:tid 648] AH00455: Apache/2.4.35 (Win64) OpenSSL/1.1.1b mod_fcgid/2.3.9 configured -- resuming normal operations
+[Thu May 13 17:29:43.205999 2021] [mpm_winnt:notice] [pid 9020:tid 648] AH00456: Apache Lounge VC15 Server built: Sep 19 2018 16:08:47
+[Thu May 13 17:29:43.205999 2021] [core:notice] [pid 9020:tid 648] AH00094: Command line: 'D:\\laragon\\bin\\apache\\httpd-2.4.35-win64-VC15\\bin\\httpd -d D:/laragon/bin/apache/httpd-2.4.35-win64-VC15'
+[Thu May 13 17:29:43.205999 2021] [mpm_winnt:notice] [pid 9020:tid 648] AH00418: Parent: Created child process 10600
+[Thu May 13 17:29:43.965680 2021] [mpm_winnt:notice] [pid 10600:tid 628] AH00354: Child: Starting 64 worker threads.
+[Thu May 13 17:29:44.973140 2021] [mpm_winnt:notice] [pid 3000:tid 628] AH00364: Child: All worker threads have exited.
+[Wed May 19 18:12:07.867685 2021] [core:warn] [pid 15760:tid 528] AH00098: pid file D:/laragon/bin/apache/httpd-2.4.35-win64-VC15/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Wed May 19 18:12:07.883339 2021] [mpm_winnt:notice] [pid 15760:tid 528] AH00455: Apache/2.4.35 (Win64) OpenSSL/1.1.1b mod_fcgid/2.3.9 configured -- resuming normal operations
+[Wed May 19 18:12:07.883339 2021] [mpm_winnt:notice] [pid 15760:tid 528] AH00456: Apache Lounge VC15 Server built: Sep 19 2018 16:08:47
+[Wed May 19 18:12:07.883339 2021] [core:notice] [pid 15760:tid 528] AH00094: Command line: 'D:\\laragon\\bin\\apache\\httpd-2.4.35-win64-VC15\\bin\\httpd -d D:/laragon/bin/apache/httpd-2.4.35-win64-VC15'
+[Wed May 19 18:12:07.883339 2021] [mpm_winnt:notice] [pid 15760:tid 528] AH00418: Parent: Created child process 4920
+Apache server interrupted...
+021] [mpm_winnt:notice] [pid 4920:tid 636] AH00354: Child: Starting 64 worker threads.
+[Wed May 19 18:12:51.656927 2021] [mpm_winnt:notice] [pid 15760:tid 528] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Wed May 19 18:12:53.676484 2021] [mpm_winnt:notice] [pid 4920:tid 636] AH00364: Child: All worker threads have exited.

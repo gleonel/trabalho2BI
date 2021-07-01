@@ -1,0 +1,6 @@
+127.0.0.1 - - [19/May/2021:18:28:30 -0300] "GET / HTTP/1.1" 200 17519 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36"
+127.0.0.1 - - [19/May/2021:18:28:57 -0300] "GET / HTTP/1.1" 200 17519 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36"
+127.0.0.1 - - [15/Jun/2021:16:00:38 -0300] "GET / HTTP/1.1" 200 17519 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36 OPR/75.0.3969.285"
+127.0.0.1 - - [15/Jun/2021:16:13:56 -0300] "GET / HTTP/1.1" 200 17519 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36 OPR/75.0.3969.285"
+192.168.0.123 - - [17/Jun/2021:13:40:35 -0300] "GET / HTTP/1.1" 403 153 "-" "Avast Antivirus"
+192.168.0.123 - - [17/Jun/2021:13:40:41 -0300] "GET /HNAP1/ HTTP/1.1" 403 153 "-" "Avast Antivirus"
