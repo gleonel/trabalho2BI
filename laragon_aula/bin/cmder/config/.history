@@ -37,3 +37,13 @@ php artisan make:model Category -m -c -r
 php artisan make:migration create_table_posts_categories --create=posts_categories
 php artisan migrate
 composer require laracasts/flash
+php artisan db:seed
+php artisan make:model Category -m -c -r
+php artisan make:migration create_table_posts_categories --create=posts_categories
+composer require laracasts/flash
+php artisan make:migration create_pessoa_post --create=posts
+php artisan make:migration create_paciente_post --create=posts
+php artisan make:migration create_atendente_post --create=posts
+php artisan make:migration create_medico_post --create=posts
+php artisan make:migration create_consulta_post --create=posts
+php artisan migrate
